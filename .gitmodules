@@ -1,0 +1,4 @@
+[submodule "site-cookbooks"]
+	path = site-cookbooks
+	url = git@github.com:blueben/chefpoc-cookbooks.git
+	branch = master
