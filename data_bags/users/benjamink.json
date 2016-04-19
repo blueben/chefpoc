@@ -1,0 +1,10 @@
+{
+    "id": "benjamink",
+    "password": "$6dM4U7CEDhgE",
+    "groups": [
+        "sudo"
+    ],
+    "ssh_keys": [
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDPb8Tivd9wu5RM+876chJgtINtInUEzfglra/d6rJauUPmR1AQ9USq17hS8SY+jCjNmGVewEnrvL0e2FSNnF0zX0cOhsjrcFsZL5+ktxjFNHvXREqnE8DPw51wfYH3hD9BrJSYzopWuqBXJNv8aNez6kB66p256+Z/p00EAnPDNovV3L0FJop4v+uAmcK+KhPQuolbxMgglg6jGXPq1UZc3nj8gCkYV3evpFH/0OSYTj3d1gRcMb26CBqoytc9+5WugsJX7AmmoypgBwQFtfFNSrQroY77cgu7HR5kvHa8DI8KT0o+7H3nrEE8eahMa7LERVhcEsKEUDeZrLthjxi1 benjamink@slalom.com
+    ]
+}
