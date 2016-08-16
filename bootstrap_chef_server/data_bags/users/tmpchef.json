@@ -1,0 +1,10 @@
+{
+    "id": "tmpchef",
+    "password": "$6QLDqI7R7NS2",
+    "groups": [
+        "sudo"
+    ],
+    "ssh_keys": [
+        "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDii0fszBN61/4UsN6v8afars83fpnI3eXWDJmYNinNRvWLXbx4O20l6JqCPZiqnr69s18sP06+XgWhABajc19X4tuSMIhR/so4immFPvTQaBJ+3Xg/kYJq/nDDP8kTPcBEVxAqA3rKK56Yh21ilGF6isnSq8Ytkwo8L0/0Njq/tOgwoOY5GrhhVuSLjrR33MwHZkjIHMR98+n9HxUCEkk818LOV87EkVyFZdhKPwPGiv7ypLoHYlqj9yQSsuKKuXdGNs6T/2v2vcMnJf6me+ypjKEuJ9SIWvISJeBRsGJ7jcUWUGDGALBuYDV9vLKSITRjdHLFVQmWZRjAjvCsg93x tmpchef"
+    ]
+}

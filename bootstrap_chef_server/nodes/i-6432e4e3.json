@@ -1,0 +1,8 @@
+{
+  "run_list": [
+    "recipe[chef_server_bootstrap]"
+  ],
+  "automatic": {
+    "ipaddress": "ec2-54-167-52-170.compute-1.amazonaws.com"
+  }
+}
